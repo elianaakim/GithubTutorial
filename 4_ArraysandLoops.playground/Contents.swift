@@ -1,6 +1,6 @@
 import UIKit
 
-var cities = ["Seattle", "San Francisco", "New York", "Los Angeles", "Orlando", "Santa Fe", "Sacramento"]
+var cities = ["Seattle", "San Francisco", "New York", "Los Angeles", "Orlando"]
 
 for city in cities {
     print(city.uppercased())
