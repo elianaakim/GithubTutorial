@@ -15,3 +15,5 @@ print("My name is " + scholarName + " and I am " + String(age) + " years old")
 print("My favorite color is " + myFavoriteColor + " and my eye color is " + eyeColor)
 
 print("My address is " + address + " and I was born in " + cityBornIn)
+
+print("My birthday is " + birthday)
